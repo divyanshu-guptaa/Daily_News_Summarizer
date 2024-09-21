@@ -161,9 +161,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 NewsS_env/
-<<<<<<< HEAD
 datasets/
 bart-summarizer/
-=======
-datasets/
->>>>>>> d0da16de9cd09b2046aa42b564ed81864a204560
